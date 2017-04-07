@@ -26,3 +26,9 @@
 * [x] 选项
 * [ ] 选项
 * [ ] 选项
+
+### 代码块
+```javascript
+    var div = document.getElementById('div');
+    console.log(div);
+```
